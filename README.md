@@ -1,4 +1,4 @@
 java-akka-kamon
 ===============
 
-Integration of Kamon AOP monitoring into a Java based Akka project
+Integration of Kamon AOP monitoring into a Java based Akka / Spring project
